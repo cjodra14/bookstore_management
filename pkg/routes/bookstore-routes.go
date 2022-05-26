@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"github.com/cjodra/bookstore_management/pkg/controllers"
+	"github.com/cjodra14/bookstore_management/pkg/controllers"
 	"github.com/gorilla/mux"
 )
 
